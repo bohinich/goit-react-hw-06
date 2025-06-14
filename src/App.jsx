@@ -4,7 +4,7 @@ import { store, persistor } from './redux/store';
 import ContactsForm from './components/ContactsForm/ContactsForm';
 import SearchBox from './components/SearchBox/SearchBox';
 import ContactList from './components/ContactList/ContactList';
-import styles from './App.css';
+import styles from './App.module.css';
 
 export default function App() {
   return (
