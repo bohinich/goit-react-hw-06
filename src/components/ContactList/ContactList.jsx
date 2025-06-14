@@ -1,5 +1,5 @@
 import { useSelector } from 'react-redux';
-import Contact from './Contact';
+import Contact from '../Contact/Contact';
 import styles from './ContactList.module.css';
 
 export default function ContactList() {
